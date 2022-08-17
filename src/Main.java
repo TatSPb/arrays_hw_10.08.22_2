@@ -83,7 +83,7 @@ public class Main {
                 System.out.print(", "); //печатать с пробелами и запятыми (если не последний элемент массива)
             }
         }
-        //новая ветка
+
     }
 }
 //public static void task1alt(){
